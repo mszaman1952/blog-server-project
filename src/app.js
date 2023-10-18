@@ -1,6 +1,7 @@
-import express from express;
-import cors from cors;
+import express from "express";
+import cors from "cors";
 import httpStatus from "http-status";
+// import router from "./app/routes/router.js";
 
 const app = express();
 
